@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mousavian.templib">
+
+    <application>
+        <activity android:name=".LibMain"></activity>
+    </application>
+
+</manifest>

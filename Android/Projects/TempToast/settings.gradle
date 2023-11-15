@@ -1,0 +1,3 @@
+include ':tempLib'
+include ':app'
+rootProject.name = "TempToast"
